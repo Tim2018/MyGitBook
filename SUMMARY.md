@@ -1,2 +1,6 @@
 # Summary
-* [前言] (README.md)
+
+* [Introduction](README.md)
+* \[前言\] \(README.md\)
+* [Atom使用技巧](atom.md)
+
